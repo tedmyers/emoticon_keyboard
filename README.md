@@ -1,7 +1,7 @@
 # Mini Emoticon Keyboard
 Code for a small trinket based two button keyboard.
 
-[[https://github.com/tedmyers/emoticon_keyboard/blob/master/emoticon_keyboard.jpg]
+[[https://github.com/tedmyers/emoticon_keyboard/blob/master/emoticon_keyboard.jpg]]
 
 More information on this project can be found on the instructable for this project, which will be posted soon.
 
